@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Project Object Programming\memoryGame\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+C:\Users\Admin\Desktop\Project Object Programming\memoryGame\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Admin\Desktop\Project Object Programming\memoryGame\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\Admin\Desktop\Project Object Programming\memoryGame\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Project Object Programming\memoryGame\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project Object Programming\memoryGame\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Project Object Programming\memoryGame\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Project Object Programming\memoryGame\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Admin\Desktop\Project Object Programming\memoryGame\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\jpabi\Desktop\PROJEKTY SKOŃCZONE\memoryGame\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+C:\Users\jpabi\Desktop\PROJEKTY SKOŃCZONE\memoryGame\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\jpabi\Desktop\PROJEKTY SKOŃCZONE\memoryGame\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\jpabi\Desktop\PROJEKTY SKOŃCZONE\memoryGame\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\jpabi\Desktop\PROJEKTY SKOŃCZONE\memoryGame\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\jpabi\Desktop\PROJEKTY SKOŃCZONE\memoryGame\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\jpabi\Desktop\PROJEKTY SKOŃCZONE\memoryGame\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\jpabi\Desktop\PROJEKTY SKOŃCZONE\memoryGame\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary.pdb
